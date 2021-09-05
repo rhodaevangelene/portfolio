@@ -1,5 +1,5 @@
 # Advanced CSS Challenge: Professional Portfolio
-This repository contains HTML and CSS code to add the following user story and acceptance criteria as specified in [Challenge 2](https://courses.bootcampspot.com/courses/762/assignments/16690?module_item_id=276203)
+This repository contains HTML and CSS code to implement the following user story and acceptance criteria as specified in [Challenge 2](https://courses.bootcampspot.com/courses/762/assignments/16690?module_item_id=276203)
 
 ## User Story
 ```
