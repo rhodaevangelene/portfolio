@@ -4,6 +4,10 @@
     margin: 0;
 }
 
+html {
+	scroll-behavior: smooth;
+}
+
 body {
     background-color: #cfcfcf;
 }
@@ -243,12 +247,12 @@ p {
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
     font-size: 16px;
-    color: var(--secondary-color);
+    color: #000;
     width: 100%;
     margin-bottom: 15px;
     margin-top: 5px;
     border-radius: 4px;
-    background-color: rgba(255,255,255, 0.75);
+    background-color: rgba(255,255,255, 0.75);    
   }
   
   .contact-form input:focus, .contact-form textarea:focus {
