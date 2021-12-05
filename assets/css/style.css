@@ -113,7 +113,7 @@ p {
 .hero-section {
   background: url('../images/hero.jpg') 50% no-repeat;
   background-size: cover;
-  height: 60vh;
+  height: 20vh;
   text-align: center;
   display: inherit;
   align-items: center;
